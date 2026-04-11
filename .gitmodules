@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "HHBayes"]
+	path = HHBayes
+	url = https://github.com/keli5734/hhbayes
